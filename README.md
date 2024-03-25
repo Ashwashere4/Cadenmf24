@@ -1,11 +1,11 @@
 ### Hi there 👋
-<p align="center">
-    `Creating something new, refining something old, or exploring foreign technologies` 
+<p align="center" font-style= "italic">
+    Creating something new, refining something old, or exploring foreign technologies 
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2248F7&vCenter=true&random=false&width=435&lines=RIT+Student;Computer+Vision+developer;Full-Stack+web+developer;Always+developing" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2248F7random=false&width=435&lines=RIT+Student;Computer+Vision+developer;Full-Stack+web+developer;Always+developing" alt="Typing SVG" /></a>
 </p>
 
 I am a student attending Rochester Institute of Technology pursuing a Bachelor's degree in Software Engineering. All of my coding projects come from me having a "wouldn't it be cool if..." moment. I would like to believe that these projects I do solve real-world problems, but I usually make things simply because I find it cool to do so.
