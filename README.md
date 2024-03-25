@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=RIT+Student;Computer+Vision+Developer;Full+Stack+Web+Developer;Always+Developing" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=RIT+Student;Computer+Vision+Developer;Full+Stack+Web+Developer;Always+Developing" alt="Typing SVG" /></a>
 </p>
 
 <!-- <p align="center">
@@ -16,7 +16,7 @@
         </a>
 </p> -->
 
-<!-- I am a student attending Rochester Institute of Technology pursuing a Bachelor's degree in Software Engineering. All of my coding projects come from me having a "wouldn't it be cool if..." moment. I would like to believe that these projects I do solve real-world problems, but I usually make things simply because I find it cool to do so. -->
+I am a student attending Rochester Institute of Technology pursuing a Bachelor's degree in Software Engineering. All of my coding projects come from me having a "wouldn't it be cool if..." moment. I would like to believe that these projects I do solve real-world problems, but I usually make things simply because I find it cool to do so.
 
 ---
 
